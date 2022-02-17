@@ -1,2 +1,2 @@
 # MarsRobot
- Test project for job interview
+This is a test project for a job interview.
