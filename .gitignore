@@ -2,3 +2,5 @@
 .git/
 MarsRobotConsole/bin/
 MarsRobotConsole/obj/
+Tests/bin/
+Tests/obj/
