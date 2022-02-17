@@ -1,6 +1,6 @@
 .vs/
 .git/
-MarsRobotConsole/bin/
-MarsRobotConsole/obj/
-Tests/bin/
-Tests/obj/
+MarsRobot/bin/
+MarsRobot/obj/
+MarsRobotTests/bin/
+MarsRobotTests/obj/
